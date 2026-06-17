@@ -3,7 +3,8 @@ programa {
     real n1, n2 
     inteiro opcao
     cadeia x 
-
+// Sei lá3
+445454545
 escreva("\nQuer fazer uma nota operação: (s/n)")
       leia(x)
     enquanto(x != "n"){
